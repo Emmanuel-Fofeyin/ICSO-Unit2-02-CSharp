@@ -10,8 +10,8 @@ public class Program
     public static void Main(string[] args) 
     {            
         Console.WriteLine("the denensions of a rectangle are: 5cm & 3cm");
-        Console.WriteLine("the area equals: 15cm²");
-        Console.WriteLine("the perimiter equals: 16cm²");
+        Console.WriteLine("the area equals: " + (3 * 5) + "cm²");
+        Console.WriteLine("the perimiter equals:" + ((2*5) + (2*3)) + "cm²");
 
         Console.WriteLine("\nDone.");
     }
