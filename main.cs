@@ -1,5 +1,5 @@
-// Created by: Emmanuel-Fofeyin
-// Created on: monday march 10th 2020
+// Created by: Mr Coxall
+// Created on: Sep 2020
 //
 // This program does basic math
 
@@ -7,14 +7,11 @@ using System;
 
 public class Program 
 {
-
     public static void Main(string[] args) 
-    {
-        Console.WriteLine(9 + 2);
-        Console.WriteLine("7 - 3 = " + (7 - 3));
-        Console.WriteLine("4 * 2 = " + (4 * 2));
-        Console.WriteLine("4 + 4 ÷ 2 = " + (4 + (4 / 2)));
-        Console.WriteLine("5 + 2³ = " + (5 + Math.Pow(2, 3)));
+    {            
+        Console.WriteLine("the denensions of a rectangle are: 5cm & 3cm");
+        Console.WriteLine("the area equals: 15cm²");
+        Console.WriteLine("the perimiter equals: 16cm²");
 
         Console.WriteLine("\nDone.");
     }
