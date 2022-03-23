@@ -1,5 +1,5 @@
-// Created by: Mr Coxall
-// Created on: Sep 2020
+// Created by: Emmanuel Fofeyin
+// Created on: friday march 2022
 //
 // This program does basic math
 
