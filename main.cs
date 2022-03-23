@@ -13,6 +13,6 @@ public class Program
         Console.WriteLine("the area equals: " + (3 * 5) + "cm²");
         Console.WriteLine("the perimiter equals:" + ((2*5) + (2*3)) + "cm²");
 
-        Console.WriteLine("\nDone.");
+        Console.WriteLine("\nDone.")
     }
 }
