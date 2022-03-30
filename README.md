@@ -1,4 +1,4 @@
-# ICSO-Unit2-02-CSharp
+# IC2SO-Unit2-02-CSharp
 
 [![GitHub's Super Linter](https://github.com/Emmanuel-Fofeyin/ICSO-Unit2-02-CSharp/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com//Emmanuel-Fofeyin/ICSO-Unit2-02-CSharp/actions)
 
